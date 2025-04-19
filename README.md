@@ -32,4 +32,3 @@ solar-system/
 - CSS3 (with custom animations and gradients)
 - JavaScript (DOM manipulation & calculation logic)
 
-## 📄 License
